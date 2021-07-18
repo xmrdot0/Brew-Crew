@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "939431354800",
+    "project_id": "ninja-brew-crew-c8476",
+    "storage_bucket": "ninja-brew-crew-c8476.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939431354800:android:63f879029101cb78dcf675",
+        "android_client_info": {
+          "package_name": "com.yahia.learnbloooc"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939431354800-spati2bjc0sg8v5414c16f6ofaujb50f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9V-3EyAk-FQgA0CuBS4JFJEkwNbggqb8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939431354800-spati2bjc0sg8v5414c16f6ofaujb50f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
